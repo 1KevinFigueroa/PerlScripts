@@ -1,6 +1,6 @@
 #!/usr/bin/perl -w
 
-opendir DIR, "~/Documents";
+opendir DIR, "/";
 
 while ($filename = readdir (DIR) ) {
 	print $filename, "\n";

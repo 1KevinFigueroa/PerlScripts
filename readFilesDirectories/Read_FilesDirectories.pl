@@ -6,5 +6,3 @@ foreach $file (@files)
       {
 	print $file ."\n";
       }
-
-closedir (DIR);
