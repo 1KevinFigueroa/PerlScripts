@@ -33,3 +33,4 @@ sub find_dups(@)
     my @result = ();  #The resulting list
 
     # Now loop through the list
+}
